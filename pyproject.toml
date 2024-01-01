@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "merlin"
+version = "0.1.0"
+description = ""
+authors = ["Furkan Melih Ercan <furkan.ercan@b2metric.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.11.5"
+jupyter = "^1.0.0"
+pillow = "^10.1.0"
+pyscreenshot = "^3.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

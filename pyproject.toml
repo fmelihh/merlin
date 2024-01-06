@@ -14,6 +14,11 @@ pydbus = "0.6.0"
 pygi = "^1.0.3"
 pycairo = "^1.25.1"
 pygobject = "^3.46.0"
+numpy = "^1.26.3"
+mss = "^9.0.1"
+xlib = "^0.21"
+opencv-python-headless = "^4.9.0.80"
+opencv-jupyter-ui = "^1.4.2"
 
 
 [build-system]

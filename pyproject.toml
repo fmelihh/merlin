@@ -13,6 +13,7 @@ numpy = "^1.26.3"
 mss = "^9.0.1"
 opencv-python-headless = "^4.9.0.80"
 opencv-jupyter-ui = "^1.4.2"
+click = "^8.1.7"
 
 
 [build-system]

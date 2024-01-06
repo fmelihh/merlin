@@ -2,7 +2,7 @@
 name = "merlin"
 version = "0.1.0"
 description = ""
-authors = ["Furkan Melih Ercan <furkan.ercan@b2metric.com>"]
+authors = ["Furkan Melih Ercan <furkanmelihercan.98@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
